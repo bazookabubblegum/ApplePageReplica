@@ -1,0 +1,45 @@
+main.css
+
+.navbar ul {
+	display:block;
+	margin:0 auto;
+	background-color:black;
+	border:2px;
+	width:auto;
+	
+	}
+.navbar li{
+		display:inline-block;
+		text-align:center;
+		font-family:'Nunito Sans', sans-serif;
+		padding: 15px, 15px;
+		margin:0 0 15px 15px;	
+	}
+	
+.headline{
+	position:static;
+	display:block;
+	text-align:center;
+	font-size:48px;
+	font-weight:600;
+	letter-spacing:.5px;
+	font-family:'Nunito Sans', sans-serif;
+	margin:0 auto;
+	padding:15px;
+}
+.subhead{
+	position:static;
+	display:block;
+	text-align:center;
+	font-size:18px;
+	font-family:'Nunito Sans', sans-serif;
+	margin:0 auto;
+	padding-top:47px;
+	padding-bottom:10px;
+}
+	.first-gallery
+		img{
+		display:block;
+		width:75%;
+		margin:0 auto;
+	}
